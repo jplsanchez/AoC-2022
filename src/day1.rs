@@ -1,6 +1,7 @@
 // Each line represents an quantity of calories that a elf is carring
 // if the next line is not blank it belongs to the same elf
 // if the line is blank then is the next elf
+#![allow(dead_code)]
 
 mod models;
 use models::CaloriesRank;
