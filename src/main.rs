@@ -1,6 +1,7 @@
 mod day1;
 mod day2;
 mod day3;
+mod day4;
 pub mod utils;
 
 fn main() {
@@ -13,6 +14,10 @@ fn main() {
     // day2::run_part_2();
 
     // Day 3: Rucksack Reorganization
-    day3::run_part_1();
-    day3::run_part_2();
+    // day3::run_part_1();
+    // day3::run_part_2();
+
+    // Day 4: Camp Cleanup
+    day4::run_part_1();
+    day4::run_part_2();
 }
