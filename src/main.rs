@@ -3,6 +3,7 @@ mod day2;
 mod day3;
 mod day4;
 mod day5;
+mod day6;
 pub mod utils;
 
 fn main() {
@@ -23,6 +24,10 @@ fn main() {
     // day4::run_part_2();
 
     // Day 5: Supply Stacks
-    day5::run_part_1();
-    day5::run_part_2();
+    // day5::run_part_1();
+    // day5::run_part_2();
+
+    // Day 6: Tuning Trouble
+    day6::run_part_1();
+    day6::run_part_2();
 }
