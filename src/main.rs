@@ -4,6 +4,7 @@ mod day3;
 mod day4;
 mod day5;
 mod day6;
+mod day7;
 pub mod utils;
 
 fn main() {
@@ -28,6 +29,10 @@ fn main() {
     // day5::run_part_2();
 
     // Day 6: Tuning Trouble
-    day6::run_part_1();
-    day6::run_part_2();
+    // day6::run_part_1();
+    // day6::run_part_2();
+
+    // Day 7: No Space Left On Device
+    day7::run_part_1();
+    day7::run_part_2();
 }
