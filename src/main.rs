@@ -5,6 +5,7 @@ mod day4;
 mod day5;
 mod day6;
 mod day7;
+mod day8;
 pub mod utils;
 
 fn main() {
@@ -33,6 +34,10 @@ fn main() {
     // day6::run_part_2();
 
     // Day 7: No Space Left On Device
-    day7::run_part_1();
-    day7::run_part_2();
+    // day7::run_part_1();
+    // day7::run_part_2();
+
+    // Day 8: Treetop Tree House
+    day8::run_part_1();
+    day8::run_part_2();
 }
